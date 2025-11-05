@@ -1,2 +1,5 @@
 flask
 mongoengine
+faiss-cpu
+numpy
+google-generativeai
