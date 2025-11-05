@@ -1,7 +1,7 @@
 #Rag model for resume filteering
 -tech stack
   front-end(streamlit)
-  backend(python,flask, rest apis,NLP)
+  backend(python,flask, rest apis,NLP,faiss,google.generativeai)
   db(mongo db)
   genai(rag, prompt-techniques,llms)
 
